@@ -1,0 +1,122 @@
+
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merienda', cursive;
+}
+
+h1 {
+  font-family: 'Sacramento', cursive;
+}
+
+#name {
+  font-family: 'Sacramento', cursive;
+  font-size: 50px;
+  margin: 0;
+  margin-top: 10px;
+}
+
+#name_description {
+  margin: 0;
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+
+h2 {
+  font-family: 'Montez', cursive;
+  font-size: 45px;
+}
+
+h3 {
+  font-family: 'Mansalva', cursive;
+}
+
+
+
+.upper_container {
+  background-color: #e4e3e3;
+  margin-top: 0;
+  width: 100%;
+  height: 600px;
+  position: relative;
+  padding: 2%;
+}
+
+.upper_cloud_image {
+  position: relative;
+  margin-left:  45%;
+}
+
+.lower_cloud_image {
+  position: relative;
+  margin-right: 45%;
+}
+
+.mountain_img {
+  position: absolute;
+}
+
+.middle_container {
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  margin-top: -22px;
+  padding: 2%;
+  /*background-color: #84a9ac;*/
+  /*background-color: #f2f2f0;*/
+  /*background-color: #f3f3f3;*/
+  background-color: #eeeeee;
+}
+
+.h2_middle_container {
+  display: inline-block;
+}
+
+.icon {
+  width: 30px;
+  height:30px;
+  position: relative;
+  margin-left: 10px;
+}
+
+#profile_picture {
+
+  height: 200px;
+  width: 200px;
+  border-radius: 50%;
+  position: relative;
+  margin-top: -15px;
+
+}
+
+
+.background_middle_container {
+  background-color: #f4f6ff;
+  display: inline-block;
+  width: 550px;
+
+}
+
+.background_list {
+  text-align: left;
+}
+
+.bottom_container {
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  background-color: #3b6978;
+  padding: 2%;
+}
+
+#contact_me {
+  margin-top: 0;
+}
+
+.bottom_container_div {
+  display: inline-block;
+  text-align: left;
+  /*background-color: #b2ebf2;*/
+  background-color: #ddf3f5;
+  width: 550px;
+}
